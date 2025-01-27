@@ -1,0 +1,9 @@
+.Card {
+  background-color: wheat;
+  text-align: center;
+  width: 40%;
+  margin-left: 30%;
+  padding: 1rem;
+  margin-top: 3%;
+  font-size: x-large;
+}

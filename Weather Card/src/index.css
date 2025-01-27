@@ -1,0 +1,10 @@
+.Card {
+  background-color: antiquewhite;
+  align-self: center;
+  width: 70%;
+  padding: 2rem;
+  margin-top: 2rem;
+  justify-items: center;
+  margin-left: 15%;
+  border-radius: 3rem;
+}
