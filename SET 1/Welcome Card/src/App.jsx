@@ -1,6 +1,5 @@
 import React from "react";
-import WeatherCard from "./Components/WeatherCard";
-
+import WelcomeCard from "./Components/WelcomeCard";
 function App() {
   return (
     <div>

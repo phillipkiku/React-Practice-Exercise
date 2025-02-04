@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 
-function WeatherCard({ name, message }) {
+function WelcomeCard({ name, message }) {
   return (
     <div className="Card">
       <h1>{name}</h1>
@@ -10,4 +10,4 @@ function WeatherCard({ name, message }) {
   );
 }
 
-export default WeatherCard;
+export default WelcomeCard;
